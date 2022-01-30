@@ -1,0 +1,56 @@
+{
+  "Pxxxx":{
+    "Cable 1":[
+      {
+        "cable_ident_number":"id-",
+        "factory_kp":"kp-",
+        "cable_type":"HVAC",
+        "start_mag_time":null,
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":null,
+        "end_of_cable_kp":null
+      }
+    ],
+    "Cable 2":[
+      {
+        "cable_ident_number":"id-",
+        "factory_kp":"kp-",
+        "cable_type":"HVAC",
+        "start_mag_time":null,
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":null,
+        "end_of_cable_kp":null
+      }
+    ],
+    "Cable 3":[
+      {
+        "cable_ident_number":"id-",
+        "factory_kp":"kp-",
+        "cable_type":"HVAC",
+        "start_mag_time":null,
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":null,
+        "end_of_cable_kp":null
+      }
+    ],
+    "Cable 4":[
+      {
+        "cable_ident_number":"id-",
+        "factory_kp":"kp-",
+        "cable_type":"HVAC",
+        "start_mag_time":null,
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":null,
+        "end_of_cable_kp":null
+      }
+    ]
+  }
+}
