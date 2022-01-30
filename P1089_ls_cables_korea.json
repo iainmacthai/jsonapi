@@ -22,7 +22,7 @@
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":"2021-02-17T04:26:00.000",,
+        "end_of_cable_time":"2021-02-17T04:26:00.000",
         "end_of_cable_kp":11150
       }
     ],
