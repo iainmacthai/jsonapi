@@ -1,5 +1,12 @@
 {
-  "Pxxxx":{
+  "project_number":null,
+  "project_location":null,
+  "engineer_1":null,
+  "engineer_2":null,
+  "loadout_type":null,
+  "loadout_start_date":null,
+  "loadout_stop_date":null,
+  "Loadout_Sequence":{
     "Cable 1":[
       {
         "cable_ident_number":"id-",
