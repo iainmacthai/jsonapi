@@ -9,6 +9,8 @@
   "loadout_stop_date":null,
   "cables_loaded":5,
   "cables_magnetized":5,
+  "factory_kp_total":null,
+  "innovatum_kp_total":null,
   "Loadout_Sequence":{
     "Cable 1":[
       {
