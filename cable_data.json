@@ -1,5 +1,6 @@
 {
   "project_number":null,
+  "project_client":null,
   "project_location":null,
   "engineer_1":null,
   "engineer_2":null,
@@ -12,8 +13,9 @@
     "Cable 1":[
       {
         "cable_ident_number":"id-",
-        "factory_kp":"kp-",
+        "cable_manufacturer":"null",
         "cable_type":"HVAC",
+        "factory_kp":"kp-",
         "start_mag_time":null,
         "start_mag_kp":null,
         "current_mag_time":null,
@@ -25,8 +27,9 @@
     "Cable 2":[
       {
         "cable_ident_number":"id-",
-        "factory_kp":"kp-",
+        "cable_manufacturer":"null",
         "cable_type":"HVAC",
+        "factory_kp":"kp-",
         "start_mag_time":null,
         "start_mag_kp":null,
         "current_mag_time":null,
@@ -38,8 +41,9 @@
     "Cable 3":[
       {
         "cable_ident_number":"id-",
-        "factory_kp":"kp-",
+        "cable_manufacturer":"null",
         "cable_type":"HVAC",
+        "factory_kp":"kp-",
         "start_mag_time":null,
         "start_mag_kp":null,
         "current_mag_time":null,
@@ -51,8 +55,9 @@
     "Cable 4":[
       {
         "cable_ident_number":"id-",
-        "factory_kp":"kp-",
+        "cable_manufacturer":"null",
         "cable_type":"HVAC",
+        "factory_kp":"kp-",
         "start_mag_time":null,
         "start_mag_kp":null,
         "current_mag_time":null,
