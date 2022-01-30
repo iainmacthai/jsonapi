@@ -6,6 +6,8 @@
   "loadout_type":null,
   "loadout_start_date":null,
   "loadout_stop_date":null,
+  "cables_loaded": 5,
+  "cables_magnetized": 5,
   "Loadout_Sequence":{
     "Cable 1":[
       {
