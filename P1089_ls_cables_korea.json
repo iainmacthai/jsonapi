@@ -9,8 +9,8 @@
   "loadout_stop_date":"27-02-2021",
   "cables_loaded":7,
   "cables_magnetized":7,
-  "factory_kp_total":87335
-  "innovatum_kp_total":86743
+  "factory_kp_total":87335,
+  "innovatum_kp_total":86743,
   "Loadout_Sequence":{
     "Cable 1":[
       {
