@@ -18,11 +18,11 @@
         "cable_size":"xxx mm",
         "pitch_length":10,
         "factory_kp":"kp-",
-        "start_mag_time":null,
+        "start_mag_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":null,
+        "end_of_cable_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "end_of_cable_kp":null
       }
     ],
@@ -34,11 +34,11 @@
         "cable_size":"xxx mm",
         "pitch_length":10,
         "factory_kp":"kp-",
-        "start_mag_time":null,
+        "start_mag_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":null,
+        "end_of_cable_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "end_of_cable_kp":null
       }
     ],
@@ -50,11 +50,11 @@
         "cable_size":"xxx mm",
         "pitch_length":10,
         "factory_kp":"kp-",
-        "start_mag_time":null,
+        "start_mag_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":null,
+        "end_of_cable_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "end_of_cable_kp":null
       }
     ],
@@ -66,11 +66,11 @@
         "cable_size":"xxx mm",
         "pitch_length":10,
         "factory_kp":"kp-",
-        "start_mag_time":null,
+        "start_mag_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":null,
+        "end_of_cable_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "end_of_cable_kp":null
       }
     ],
@@ -82,11 +82,11 @@
         "cable_size":"xxx mm",
         "pitch_length":10,
         "factory_kp":"kp-",
-        "start_mag_time":null,
+        "start_mag_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "start_mag_kp":null,
         "current_mag_time":null,
         "current_mag_kp":null,
-        "end_of_cable_time":null,
+        "end_of_cable_time":"YYYY-MM-DDTHH:MM:SS.MSS",
         "end_of_cable_kp":null
       }
     ]
