@@ -65,6 +65,20 @@
         "end_of_cable_time":null,
         "end_of_cable_kp":null
       }
+    ],
+    "Cable 4":[
+      {
+        "cable_ident_number":"id-",
+        "cable_manufacturer":"null",
+        "cable_type":"HVAC",
+        "factory_kp":"kp-",
+        "start_mag_time":null,
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":null,
+        "end_of_cable_kp":null
+      }
     ]
   }
 }
