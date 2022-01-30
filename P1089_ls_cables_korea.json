@@ -15,7 +15,7 @@
     "Cable 1":[
       {
         "cable_ident_number":"IAC Section 7",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -31,7 +31,7 @@
     "Cable 2":[
       {
         "cable_ident_number":"IAC Section 6",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -47,7 +47,7 @@
     "Cable 3":[
       {
         "cable_ident_number":"IAC Section 5",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -63,7 +63,7 @@
     "Cable 4":[
       {
         "cable_ident_number":"IAC Section 4",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -79,7 +79,7 @@
     "Cable 5":[
       {
         "cable_ident_number":"IAC Section 3",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -95,7 +95,7 @@
     "Cable 6":[
       {
         "cable_ident_number":"IAC Section 2",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
@@ -111,7 +111,7 @@
     "Cable 7":[
       {
         "cable_ident_number":"IAC Section 1",
-        "cable_manufacturer":"null",
+        "cable_manufacturer":"LS Cables",
         "cable_type":"HVAC",
         "cable_size":"160mm",
         "pitch_length":10,
