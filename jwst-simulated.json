@@ -4,6 +4,8 @@
   "distanceL2Km":1024375.6,
   "percentageCompleted":29.1741,
   "speedKmS":1.1578,
+  "deploymentImgURL": "",
+  "currentDeploymentStep": "MCC1b - Mid Course Correction Burn 1b",
   "tempC":{
     "tempWarmSide1C":56.67,
     "tempWarmSide2C":15.56,
