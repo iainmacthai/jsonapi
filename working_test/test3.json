@@ -24,7 +24,7 @@
     },
     "status": "completed",
     "reports_completed": true
- }, 
+ } 
   "cable1": {
     "id": "IAC Section 7",
     "cable_type": "HVAC",
@@ -40,5 +40,5 @@
     },
     "status": "completed",
     "reports_completed": true
- },
+ }
 }
