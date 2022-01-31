@@ -23,9 +23,8 @@
       "stop_mag_time": "1980-01-02T00:00:00.000Z"
     },
     "status": "completed",
-    "reports_completed": true,
-  },
- },
+    "reports_completed": true
+  }
   "cable2": {
     "id": 12345,
     "name": "John Doe",
