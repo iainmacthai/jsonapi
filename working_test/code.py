@@ -12,7 +12,7 @@ from adafruit_magtag.magtag import MagTag
 DAILY_UPDATE_HOUR = 20
 
 # Set up where we'll be fetching data from
-DATA_SOURCE = "https://iainmacthai.github.io/jsonapi/test.json"
+DATA_SOURCE = "https://iainmacthai.github.io/jsonapi/working_test/test.json"
 
 PRODUCT_LOCATION = ['product']
 PERSON_LOCATION = ['person', 'name']
