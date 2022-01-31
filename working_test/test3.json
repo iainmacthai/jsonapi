@@ -12,7 +12,7 @@
   "cable1": {
     "id": "IAC Section 7",
     "cable_type": "HVAC",
-    "cable_size": "HVAC",
+    "cable_size": "160mm",
     "kp": {
       "factory_final_kp": 3600,
       "current_kp": 3600,
@@ -23,19 +23,7 @@
       "stop_mag_time": "1980-01-02T00:00:00.000Z"
     },
     "status": "completed",
-    "registered": true,
-    "emergencyContacts": [
-      {
-        "name": "Jane Doe",
-        "phone": "888-555-1212",
-        "relationship": "spouse"
-      },
-      {
-        "name": "Justin Doe",
-        "phone": "877-123-1212",
-        "relationship": "parent"
-      }
-    ]
+    "reports_completed": true,
   },
   "cable2": {
     "id": 12345,
