@@ -33,12 +33,12 @@
     "id": 12345,
     "name": "John Doe",
     "phones": {
-      "home": "123456",
-      "mobile": "654321"
+      "home": "555555",
+      "mobile": "444444"
     },
     "email": [
-      "first@example.com",
-      "second@example.org"
+      "third@example.com",
+      "fourth@example.org"
     ],
     "dateOfBirth": "1980-01-02T00:00:00.000Z",
     "registered": true,
