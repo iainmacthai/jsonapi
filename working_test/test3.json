@@ -1,0 +1,66 @@
+{
+  "project_number": 1089,
+  "client": "Jan De Nul",
+  "location": "LS Cable, Donghae, Korea",
+  "cables_loaded": 7,
+  "cables_magnetized": 7,
+  "total_factory_kp": 12345,
+  "total_innovatum_kp": 12355,
+  "start_mag_date": "2014-06-25T00:00:00.000Z",
+  "end_mag_date": "2014-06-25T00:00:00.000Z",
+  "demo": true,
+  "cable1": {
+    "id": "IAC Section 7",
+    "cable_type": "HVAC",
+    "cable_size": "HVAC",
+    "kp": {
+      "factory_final_kp": 3600,
+      "current_kp": 3600,
+      "factory_final_kp": 3604
+    },
+    "times": {
+      "start_mag_time": "1980-01-02T00:00:00.000Z",
+      "stop_mag_time": "1980-01-02T00:00:00.000Z"
+    },
+    "status": "completed",
+    "registered": true,
+    "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
+    ]
+  },
+  "cable2": {
+    "id": 12345,
+    "name": "John Doe",
+    "phones": {
+      "home": "555555",
+      "mobile": "444444"
+    },
+    "email": [
+      "third@example.com",
+      "fourth@example.org"
+    ],
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true,
+    "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
+    ]
+  }
+}
