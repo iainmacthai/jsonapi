@@ -1,0 +1,128 @@
+{
+  "project_number":"p1089",
+  "project_client":"Jan De Nul",
+  "project_location":"LS Cables Donghae Korea",
+  "engineer_1":"Iain MacMillan",
+  "engineer_2":"Steve Walker",
+  "loadout_type":"factory",
+  "loadout_start_date":"15-02-2021",
+  "loadout_stop_date":"27-02-2021",
+  "cables_loaded":7,
+  "cables_magnetized":7,
+  "factory_kp_total":87335,
+  "innovatum_kp_total":86743,
+  "Loadout_Sequence":{
+    "Cable 1":[
+      {
+        "cable_ident_number":"IAC Section 7",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":11243,
+        "start_mag_time":"2021-02-15T02:38:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-17T04:26:00.000",
+        "end_of_cable_kp":11150
+      }
+    ],
+    "Cable 2":[
+      {
+        "cable_ident_number":"IAC Section 6",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12584,
+        "start_mag_time":"2021-02-17T04:49:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-19T02:01:00.000",
+        "end_of_cable_kp":12466
+      }
+    ],
+    "Cable 3":[
+      {
+        "cable_ident_number":"IAC Section 5",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12380,
+        "start_mag_time":"2021-02-19T02:23:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-20T19:12:00.000",
+        "end_of_cable_kp":12323
+      }
+    ],
+    "Cable 4":[
+      {
+        "cable_ident_number":"IAC Section 4",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12579,
+        "start_mag_time":"2021-02-20T19:20:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-22T18:21:00.000",
+        "end_of_cable_kp":12489
+      }
+    ],
+    "Cable 5":[
+      {
+        "cable_ident_number":"IAC Section 3",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12690,
+        "start_mag_time":"2021-02-22T18:29:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-24T05:59:00.000",
+        "end_of_cable_kp":12573
+      }
+    ],
+    "Cable 6":[
+      {
+        "cable_ident_number":"IAC Section 2",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12984,
+        "start_mag_time":"2021-02-24T08:07:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-25T17:57:00.000",
+        "end_of_cable_kp":12906
+      }
+    ],
+    "Cable 7":[
+      {
+        "cable_ident_number":"IAC Section 1",
+        "cable_manufacturer":"LS Cables",
+        "cable_type":"HVAC",
+        "cable_size":"160mm",
+        "pitch_length":10,
+        "factory_kp":12875,
+        "start_mag_time":"2021-02-25T18:00:00.000",
+        "start_mag_kp":null,
+        "current_mag_time":null,
+        "current_mag_kp":null,
+        "end_of_cable_time":"2021-02-27T05:57:00.000",
+        "end_of_cable_kp":12836
+      }
+    ]
+  }
+}
