@@ -74,8 +74,6 @@ magtag.add_text(
     is_data=False
 )
 
-#magtag.graphics.qrcode(b"https://covidtracking.com/data",
-#                       qr_size=2, x=240, y=70)
 
 magtag.peripherals.neopixels.brightness = 0.1
 magtag.peripherals.neopixel_disable = False # turn on lights
