@@ -1,5 +1,5 @@
 {
-  "product": "Live JSON generator",
+  "product": "Smartrak",
   "version": 33,
   "releaseDate": "2014-06-25T00:00:00.000Z",
   "demo": true,
@@ -7,12 +7,12 @@
     "id": 12345,
     "name": "John Doe",
     "phones": {
-      "home": "800-123-4567",
-      "mobile": "877-123-1234"
+      "home": "123456",
+      "mobile": "654321"
     },
     "email": [
-      "1@example.com",
-      "2@example.org"
+      "first@example.com",
+      "second@example.org"
     ],
     "dateOfBirth": "1980-01-02T00:00:00.000Z",
     "registered": true,
