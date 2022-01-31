@@ -1,1 +1,32 @@
-ddsasa
+{
+  "product": "Staff Tracker",
+  "version": 33,
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "demo": true,
+  "person": {
+    "id": 12345,
+    "name": "John Doe",
+    "phones": {
+      "home": "123456",
+      "mobile": "654321"
+    },
+    "email": [
+      "first@example.com",
+      "second@example.org"
+    ],
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true,
+    "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
+    ]
+  }
+}
