@@ -12,7 +12,7 @@ from adafruit_magtag.magtag import MagTag
 DAILY_UPDATE_HOUR = 20
 
 # Set up where we'll be fetching data from
-DATA_SOURCE = "https://iainmacthai.github.io/jsonapi/P1089/P1089_ls_cables_korea.json"
+DATA_SOURCE = "https://iainmacthai.github.io/jsonapi/examples/P1089/P1089_ls_cables_korea.json"
 
 CLIENT_LOCATION = ['client']
 CABLE6TYPE_LOCATION = ['cable6', 'cable_type']
